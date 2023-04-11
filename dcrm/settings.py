@@ -86,6 +86,7 @@ DATABASES = {
 }
 
 #created superuser: admin with password:admin123
+#created normal user: yahia.all password:yahia1234567
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
